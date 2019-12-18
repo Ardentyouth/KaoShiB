@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KaoShiB</string>
+    <string name="text_next">编辑</string>
+    <string name="text_delete">删除</string>
+</resources>
